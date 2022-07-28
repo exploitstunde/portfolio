@@ -41,7 +41,7 @@ const App = () => {
   }
 
   const TwitterLinks = () => {
-    window.open("https://twitter.com/oduyemiobalolu1", "_blank")
+    window.open("https://twitter.com/tundeakindelee", "_blank")
   }
 
   const [activeIndex, setActiveIndex] = useState(0)

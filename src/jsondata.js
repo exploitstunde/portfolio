@@ -1,52 +1,38 @@
-const Skills_data =[
-    {
-        lvlLabel: "CSS",
-        lvlWidth: "90%"
-    },
-    {
-        lvlLabel: "HTML5",
-        lvlWidth: "90%"
-    },
-    {
-        lvlLabel: "React",
-        lvlWidth: "85%"
-    },
-    {
-        lvlLabel: "Vue",
-        lvlWidth: "65%"
-    },
-    {
-        lvlLabel: "JavaScript",
-        lvlWidth: "80%"
-    },    
-    {
-        lvlLabel: "NodeJs",
-        lvlWidth: "65%"
-    },
-    {
-        lvlLabel: "C#",
-        lvlWidth: "50%"
-    },    
-    {
-        lvlLabel: "ASP.NET",
-        lvlWidth: "50%"
-    },
-    {
-        lvlLabel: "PHP Laravel",
-        lvlWidth: "50%"
-    },
-    {
-        lvlLabel: "GO Lang",
-        lvlWidth: "50%"
-    },    
-    {
-        lvlLabel: "FIGMA",
-        lvlWidth: "85%"
-    },
-    {
-        lvlLabel: "Arduino",
-        lvlWidth: "90%"
-    },
-] 
+const Skills_data = [
+  {
+    lvlLabel: "CSS",
+    lvlWidth: "90%",
+  },
+  {
+    lvlLabel: "HTML5",
+    lvlWidth: "90%",
+  },
+  {
+    lvlLabel: "React",
+    lvlWidth: "50%",
+  },
+  {
+    lvlLabel: "JavaScript",
+    lvlWidth: "50%",
+  },
+  {
+    lvlLabel: "NodeJs",
+    lvlWidth: "40%",
+  },
+  {
+    lvlLabel: "Python",
+    lvlWidth: "35%",
+  },
 
-export default Skills_data
+  {
+    lvlLabel: "Django",
+    lvlWidth: "35%",
+  },
+
+  {
+    lvlLabel: "GO Lang",
+    lvlWidth: "30%",
+  },
+];
+
+export default Skills_data;

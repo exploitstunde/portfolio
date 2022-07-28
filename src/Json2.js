@@ -11,13 +11,8 @@ const Project_data =[
         content: "React/NodeJs/MySQL",
         imgurl: "https://img.freepik.com/free-photo/bitcoin-is-new-concept-virtual-money-graphics-digital-background-coins-with-image-letter-b_169016-4596.jpg?w=826&t=st=1657903098~exp=1657903698~hmac=9899f6b36bb173ec1d78918a69c490414b7134fb03fd4da44a838e165e785e34",
         liveurl: "https://frc-attendance-monsys.herokuapp.com/"
-    },{
-        id: 3,
-        jtitle: "Inventory Mangagement System",
-        content: "React/.NET/MySQL",
-        imgurl: "https://img.freepik.com/free-photo/inventory-stock-manufacturing-assets-goods-concept_53876-133673.jpg?t=st=1657851329~exp=1657851929~hmac=d853071735823efae9f2417071041ef26f12719e6c72da4b1949fa0798b206c4&w=740",
-        liveurl: "https://ktt-e-commerce-store.herokuapp.com/"
-    },{
+    },
+    {
         id: 4,
         jtitle: "Resume/Cover Letter Generator",
         content: "React/GO/Mongo",

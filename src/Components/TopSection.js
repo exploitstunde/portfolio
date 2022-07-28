@@ -18,15 +18,15 @@ const TopSection = ({toggleState}) => {
 })
 
   const GithubLinks = () => {
-    window.open("https://github.com/obaloluwa28/", "_blank")
+    window.open("https://github.com/exploitstunde", "_blank")
 }
 
 const TwitterLinks = () => {
-  window.open("https://twitter.com/oduyemiobalolu1", "_blank")
+  window.open("https://twitter.com/tundeakindelee", "_blank")
 }
 
 const LinkedlnLinks = () => {
-  window.open("https://www.linkedin.com/in/oduyemi-obaloluwa-9a57861b2/", "_blank")
+  window.open("https://www.linkedin.com/in/tunde-akindele-30b42197/", "_blank")
 }
 
   const downloadFile = () =>{
@@ -39,7 +39,7 @@ const LinkedlnLinks = () => {
             <div className='textContain textContainmedia'>
               <div className='sub_textContain sum_textContainmedia'>
                 <div id={toggle ? "p1" : "p1_"}>Hello I'm</div>
-                <div id={toggle ? "p2" : "p2_"}>ODUYEMI OBALOLUWA</div>
+                <div id={toggle ? "p2" : "p2_"}>Akindele Babatunde</div>
                 <div id={toggle ? "p3" : "p3_"}>FULL STACK WEB DEVELOPER</div>
                 <a href='https://drive.google.com/file/d/1pKf3aRb3NCl3WtD-9Wc9Q4hsaiT6Eujc/view' target="_blank" rel="noopener noreferrer" id={toggle ? "p4" : "p4_"}><span>View Resume</span></a>
                 {/* onClick={downloadFile} */}

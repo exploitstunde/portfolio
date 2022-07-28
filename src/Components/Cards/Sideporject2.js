@@ -3,7 +3,7 @@ import './cards.css'
 import { BsGithub } from "react-icons/bs";
 
 const Projectcard = ({slideImageurl, subtit, title, github, liveurl, buttonclicked}) => {
-    console.log(`obaloluwa:${slideImageurl}`)
+    console.log(`Babatunde:${slideImageurl}`)
 
     const registeredClick = () =>{
         buttonclicked(true)
